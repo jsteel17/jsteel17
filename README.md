@@ -43,11 +43,3 @@ I'm a full-stack developer with a strong foundation in JavaScript, Python, React
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
 </p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jsteel17&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
